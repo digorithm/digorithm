@@ -7,7 +7,7 @@ My work spans across a couple of projects:
 1. [fuels-rs](https://github.com/FuelLabs/fuels-rs): The Rust SDK for the [Fuel Labs](https://fuel.network/)'s ecosystem. Think of it as the [ethers js](https://docs.ethers.io/v5/) for the Fuel network;
 2. [fuels-ts](https://github.com/FuelLabs/fuels-ts/): Similar to `fuels-rs`, but in Typescript;
 3. [Sway](https://github.com/FuelLabs/sway): A smart contract programming language targeting the [FuelVM](https://github.com/FuelLabs/fuel-vm) and its toolchain (e.g. [forc](https://github.com/FuelLabs/sway/tree/master/forc));
-4. [fuel-core](https://github.com/FuelLabs/fuel-core): Fuel's core client and node;
+4. [fuel-core](https://github.com/FuelLabs/fuel-core): Fuel core client and node;
 5. [fuel-tx](https://github.com/FuelLabs/fuel-tx/): Fuel's transaction processing module;
 6. And more!
 
