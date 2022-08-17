@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a core dev and tech lead at [Fuel Labs](https://fuel.network/). I'm very into distributed & decentralized systems, cryptography, programming languages, and computer science in general. You can read more about me here: https://www.rodrigoaraujo.me/. 
+I'm a core dev and team lead at [Fuel Labs](https://fuel.network/). I'm very into distributed & decentralized systems, cryptography, programming languages, and computer science in general. You can read more about me here: https://www.rodrigoaraujo.me/. 
 
 My work spans across a couple of projects:
 
