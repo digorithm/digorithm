@@ -10,7 +10,8 @@ My work spans across a couple of projects:
 4. [fuel-core](https://github.com/FuelLabs/fuel-core): Fuel core client and node;
 5. [fuel-crypto](https://github.com/FuelLabs/fuel-crypto): Cryptographic primitives and APIs for the Fuel ecosytem;
 6. [fuel-tx](https://github.com/FuelLabs/fuel-tx/): Fuel's transaction processing module;
-7. Plus, 10+ years of a lot of _closed_ source work spanning across distributed systems, security, and machine learning, [see my LinkedIn for more information](https://www.linkedin.com/in/rodrigo-araujo-196a9358/).
+7. [forc-wallet](https://github.com/FuelLabs/forc-wallet): Fuel's official wallet CLI implementation;
+8. Plus, 10+ years of a lot of _closed_ source work spanning across distributed systems, security, and machine learning, [see my LinkedIn for more information](https://www.linkedin.com/in/rodrigo-araujo-196a9358/).
 
 
 You can reach me on [Twitter @ digorithm](https://twitter.com/Digorithm).
