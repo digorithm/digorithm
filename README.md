@@ -11,7 +11,7 @@ My work spans across a couple of projects:
 5. [fuel-crypto](https://github.com/FuelLabs/fuel-crypto): Cryptographic primitives and APIs for the Fuel ecosytem;
 6. [fuel-tx](https://github.com/FuelLabs/fuel-tx/): Fuel's transaction processing module;
 7. [forc-wallet](https://github.com/FuelLabs/forc-wallet): Fuel's official wallet CLI implementation;
-8. [LC-3-Rust](https://github.com/digorithm/LC-3-Rust): An LC-3 Virtual Machine (stack-based) implementation in Rust, for learning purposes;
+8. [LC-3-Rust](https://github.com/digorithm/LC-3-Rust): An LC-3 Virtual Machine (register-based) implementation in Rust, for learning purposes;
 9. Plus, 10+ years of a lot of closed source work spanning across distributed systems, security, and machine learning, [see my LinkedIn for more information](https://www.linkedin.com/in/rodrigo-araujo-196a9358/).
 
 
