@@ -21,3 +21,7 @@ Some of the projects I've worked on are public:
 
 
 You can reach me on [Twitter @ digorithm](https://twitter.com/Digorithm).
+
+---
+
+*AI disclaimer: AIs will never post comments on my behalf. I might use LLMs to assist me in all sorts of ways, but be sure that if we're having a conversation through here, you're talking to me, not any of my agents.*
